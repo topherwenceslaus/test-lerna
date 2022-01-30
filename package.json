@@ -9,6 +9,6 @@
   ],
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "publish:lerna": "lerna publish from-git --conventional-commits --create-release github"
+    "publish:lerna": "lerna publish"
   }
 }
