@@ -9,6 +9,6 @@
   ],
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "publish": "lerna publish"
+    "publish:lerna": "lerna publish from-git"
   }
 }
