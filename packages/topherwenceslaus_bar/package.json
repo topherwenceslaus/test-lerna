@@ -1,0 +1,22 @@
+{
+  "name": "topherwenceslaus_bar",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "topherwenceslaus <topher.wenceslaus@gmail.com>",
+  "homepage": "https://github.com/topherwenceslaus/test-lerna#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topherwenceslaus/test-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/topherwenceslaus/test-lerna/issues"
+  }
+}
